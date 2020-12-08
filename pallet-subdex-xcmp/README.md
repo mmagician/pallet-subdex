@@ -71,7 +71,7 @@ DexXCMP: pallet_subdex_xcmp::{Module, Call, Event<T>, Storage, Config<T>},
 DexPallet: pallet_subdex::{Module, Config<T>, Call, Storage, Event<T>},
 ```
 
-### Genesis Configuration
+### Genesis Configuration example
 ```rust
  pallet_subdex: Some(DexPalletConfig {
             dex_treasury: DexTreasury::new(root_key, 1, 4),
