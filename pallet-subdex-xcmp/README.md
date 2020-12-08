@@ -1,4 +1,4 @@
-# FRAME pallet - token dealer for fungible assets 
+# pallet-subdex-xcmp
 
 
 ## Purpose
